@@ -6,7 +6,7 @@ Both services are run using concurrently.
 
 In order to test this project, run the following commands:
 
-1) npm install  //This isntalls the dependencies for express
+1) npm install  //This installs the dependencies for express
 2) cd client
 3) npm install //Install dependencies for react
 4) cd ..
